@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+
+<body bgcolor=white>
+<div class="container">
+<div class="row">
+<div class="header">
+<div class="column">
+<img src=logo.jpg height="95" width="240">
+</div>
+<!-- <div class="column">
+<h1>All New Bmw 5 Series</h1>
+</div> -->
+</div>
+</div>
+
+<div class="row">
+<div class="navigation">
+<ul>
+<li><a href="#home">HOME</a></li>
+<li class="dropdown">
+    <a href="#home" class="dropbtn">All News</a>
+    <div class="dropdown-content">
+      <a href="#">Sports News</a>
+      <a href="#">Weather News</a>
+      <a href="#">Business News</a>
+    </div>
+  </li>
+<li><a href="#home">Reporters</a></li>
+<li><a href="#home">About</a></li>	
+</ul>
+</div>
+</div>
+
+<div class="row">
+<div class="image">
+<img src=image2.jpg height="590" width="1505"> 
+<h2>MASSIVE 8.9 EARTHQUAKE & TSUNAMIS HIT JAPAN!</h2>
+</div>
+</div>
+
+<div class="rr">
+<div class="row">
+<div class="row4">
+<div class="four">
+<img src=news1.jpg height="300" width="460">
+<h1>Giant Exoplanet With Glowing Water Atmosphere Discovered.</h1><br><br>
+<img src=news2.jpg height="300" width="460">
+<h1>Samsung Has Launched an Old School Flip Phone With 2 Touchscreen Displays.</h1>
+</div>
+<div class="four">
+<img src=news3.jpg height="300" width="460">
+<h1>Interrogation of Top Separatist Shows Money Flows In From Pak, London.</h1>
+<img src=news4.jpg height="300" width="460">
+<h1>Chant 'Bharat Mata..' Kashmir Separatist Was Asked. What Court Said.</h1>
+
+</div>
+<div class="four">
+<img src=news5.jpg height="300" width="460">
+<h1>Sushma Swaraj's Take To Solve Doklam Standoff, With Jibe At Rahul Gandhi.</h1>
+<img src=news6.jpg height="300" width="460">
+<h1>Race To Revamp Submarine Force As China Expands Its Fleet.</h1>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="row5">
+<div class="five">
+<div class="size">
+<img src=side.png height="495" width="460">
+</div>
+</div>
+<div class="seven">
+<br><br><br><br>
+<div class="text">
+<h1>The human brain is the central organ of the human nervous system, and with the spinal cord makes up the central nervous system. The brain consists of the cerebrum, the brainstem and the cerebellum. It controls most of the activities of the body, processing, integrating, and coordinating the information it receives from the sense organs, and making decisions as to the instructions sent to the rest of the body. The brain is contained in, and protected by, the skull bones of the head. The cerebrum is the largest part of the human brain. </h1>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="footer">
+<div class="four">
+<h5>Contact Us</h5><br>
+
+</div>
+<div class="four">
+<h5>About Us</h5><br>	
+</div>
+<div class="four">
+<ul>
+<li> <a href="https://www.facebook.com"><img src="facebook.png"></a></li>
+<li> <a href="https://www.youtube.com"><img src="youtube.png"></a></li>
+<li> <a href="https://twitter.com/login"><img src="twitter.png"></a></li>	
+<li> <a href="https://www.snapchat.com/l/en-gb/"><img src="snapchat.png"></a></li>		
+</ul>
+</div>
+</div>	
+</div>
+
+
+</div>
+
+
+
+</body>
+
+</html>
